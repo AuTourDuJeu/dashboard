@@ -1,0 +1,7 @@
+autourdujeu_game:
+    resource: "@AutourdujeuGameBundle/Resources/config/routing.yml"
+    prefix:   /
+
+autourdujeu_fos_user:
+    resource: "@AutourdujeuUserBundle/Resources/config/routing_fos.yml"
+    prefix:   /account

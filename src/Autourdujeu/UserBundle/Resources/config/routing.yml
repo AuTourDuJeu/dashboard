@@ -1,0 +1,3 @@
+autourdujeu_user_homepage:
+    path:     /
+    defaults: { _controller: AutourdujeuUserBundle:Default:index }
